@@ -48,7 +48,7 @@
         }
 
         h1 {
-            color: blue;
+            color: red;
             font-weight: 700;
         }
 
